@@ -1,4 +1,4 @@
-# NodeJS blog project for [B7web](https://b7web.com.br/fullstack) course
+# NodeJS CRUD to a blog backend
 
 This is a project developed by me to study NodeJS. Here i aplied some concepts teached by [Bonieky Lacerda](https://www.linkedin.com/in/bonieky/) in his NodeJS course. To do this some frameworks like Express, Jimp, Mongoose, Multer, Mustache, Slug and UUID was used to build a CRUD to a blog. The database used is MongoDB.
 
