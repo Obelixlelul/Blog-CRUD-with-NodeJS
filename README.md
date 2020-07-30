@@ -25,7 +25,7 @@ yarn
 npm start
 ```
 ## 3. ENTER
-**Access:** http://localhost:7777
+**Access:** http://localhost:7777  
 
 _To change PORT 7777, go to file variables.env and change PORT to one as you like._
 
