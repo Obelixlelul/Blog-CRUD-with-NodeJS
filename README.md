@@ -14,7 +14,7 @@ shure **MongoDB,Yarn and NPM** are installed in your PC.
 
 
 ## 2. START
-Inside de project folder run:
+Inside de project folder, run:
 ```
 $. service mongod start
 ```
